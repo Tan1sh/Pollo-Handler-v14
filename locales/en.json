@@ -1,0 +1,31 @@
+{  
+   "prefix": {
+      
+      "I don't have permission to send embed messages.":
+      "I don't have permission to send embed messages.",
+      "This command is disabled.":
+      "This command is disabled.",
+      "This command is disabled but you have developer permissions.":
+      "This command is disabled but you have developer permissions.",
+      "You don't have the next permissions: {permissions}":
+      "You don't have the next permissions: {permissions}",
+      "I don't have the next permissions: {permissions}":
+      "I don't have the next permissions: {permissions}",
+      "<> required [] optional":
+      "<> required [] optional"
+   },
+
+   "interactioncreate": {
+
+      "This command no longer exists or has been modified.":
+      "This command no longer exists or has been modified.",
+      "This command is disabled.":
+      "This command is disabled.",
+      "This command is only for bot developers.":
+      "This command is only for bot developers.",
+      "You don't have the next permissions: {permissions}":
+      "You don't have the next permissions: {permissions}",
+      "I don't have the next permissions: {permissions}":
+      "I don't have the next permissions: {permissions}"
+   }
+}
