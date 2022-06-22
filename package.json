@@ -1,0 +1,26 @@
+{
+  "name": "pollo-handler-v14",
+  "version": "1.0.0",
+  "description": "Pollo handler para discord.js v14",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tan1sh/Pollo-Handler-v14.git"
+  },
+  "author": "! tan1sh#3035",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tan1sh/Pollo-Handler-v14/issues"
+  },
+  "homepage": "https://github.com/Tan1sh/Pollo-Handler-v14#readme",
+  "dependencies": {
+    "discord.js": "^14.0.0-dev.1655381041-4df491c",
+    "dotenv": "^16.0.1",
+    "glob": "^7.2.3",
+    "moment": "^2.29.3",
+    "mongoose": "^6.3.8"
+  }
+}
